@@ -1,5 +1,5 @@
 # hello-world
-GitHub Pratcice
+GitHub Pratice
 
 
 blah blah blah
